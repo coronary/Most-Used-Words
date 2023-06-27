@@ -9,3 +9,4 @@ follow [this guide](https://www.maketecheasier.com/download-facebook-chat-histor
 
 # Ideas
 Convert into Anki cards?
+Maybe use [Vite](https://github.com/vitejs/vite) to scaffold a frontend for uploading and processing different message file types. maybe use [tailwindcss](https://github.com/tailwindlabs/tailwindcss)
